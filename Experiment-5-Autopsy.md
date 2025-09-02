@@ -38,12 +38,12 @@ This experiment demonstrates how to create a case, import evidence, analyze data
 - Fill in details such as case number, examiner’s name, etc., and click **Next**.
 
 
-![(images/exp5-step2.png)]()
+![(images/exp5-step2.png)](https://github.com/Chandra013/DF-Lab-Record-/blob/2f9d01be6ed278762fd948b0e9bea7c85096c6ea/Images/WhatsApp%20Image%202025-09-02%20at%2010.35.00%20AM.jpeg)
 
 **Step-3: Enter Case Details**  
 - Enter the case name and location where the case data will be stored. Fill in the details like the case number, examiner's name, etc., and click Next.
 
-![(images/exp5-step2.png)]()
+![(images/exp5-step2.png)](https://github.com/Chandra013/DF-Lab-Record-/blob/2f9d01be6ed278762fd948b0e9bea7c85096c6ea/Images/WhatsApp%20Image%202025-09-02%20at%2010.35.03%20AM.jpeg)
 
 **Step-4: Adding a Data Source**  
 - Choose the type of data source.  
@@ -51,13 +51,13 @@ This experiment demonstrates how to create a case, import evidence, analyze data
 - Configure **Ingest Modules** (to analyze files, search keywords, extract metadata, etc.).  
 - Start the analysis.
 
-![(images/exp5-step3.png)]()
+![(images/exp5-step3.png)](https://github.com/Chandra013/DF-Lab-Record-/blob/2f9d01be6ed278762fd948b0e9bea7c85096c6ea/Images/WhatsApp%20Image%202025-09-02%20at%2010.35.07%20AM.jpeg)
 
 **Step-5: Initial Analysis and Overview**  
 - Monitor **Ingest Progress**.  
 - Explore the resulting artifacts.  
 - Use the Tree Viewer to navigate evidence categories.  
-![(images/exp5-step5.png)]()
+![(images/exp5-step5.png)](https://github.com/Chandra013/DF-Lab-Record-/blob/2f9d01be6ed278762fd948b0e9bea7c85096c6ea/Images/WhatsApp%20Image%202025-09-02%20at%2010.35.10%20AM.jpeg)
 
 **Step-6: Detailed Analysis**  
 - **Keyword Search:**  
@@ -72,7 +72,7 @@ This experiment demonstrates how to create a case, import evidence, analyze data
 - **Hash Analysis:**  
   - Compare file hashes against known databases to identify known good/bad files.
 
-![(images/exp5-step6.png)]()
+![(images/exp5-step6.png)](https://github.com/Chandra013/DF-Lab-Record-/blob/2f9d01be6ed278762fd948b0e9bea7c85096c6ea/Images/WhatsApp%20Image%202025-09-02%20at%2010.35.11%20AM.jpeg)
 
 **Step-7: Reporting**  
 - Generate a report by selecting **Generate Report** from the toolbar.  
@@ -82,19 +82,19 @@ This experiment demonstrates how to create a case, import evidence, analyze data
 - Final Review: check that the report includes all relevant details.  
 - Save or print the report for case documentation.  
 
-![(images/exp5-step6.png)]()
+![(images/exp5-step6.png)](https://github.com/Chandra013/DF-Lab-Record-/blob/2f9d01be6ed278762fd948b0e9bea7c85096c6ea/Images/WhatsApp%20Image%202025-09-02%20at%2010.35.13%20AM.jpeg)
 
 - Report Generation Progress
 
-![(images/exp5-step6.png)]()
+![(images/exp5-step6.png)](https://github.com/Chandra013/DF-Lab-Record-/blob/2f9d01be6ed278762fd948b0e9bea7c85096c6ea/Images/WhatsApp%20Image%202025-09-02%20at%2010.35.19%20AM.jpeg)
 
 - Reports
 
-![(images/exp5-step6.png)]()
+![(images/exp5-step6.png)](https://github.com/Chandra013/DF-Lab-Record-/blob/2f9d01be6ed278762fd948b0e9bea7c85096c6ea/Images/WhatsApp%20Image%202025-09-02%20at%2010.35.21%20AM.jpeg)
 
 - Text in the report
 
-![(images/exp5-step6.png)]()
+![(images/exp5-step6.png)](https://github.com/Chandra013/DF-Lab-Record-/blob/2f9d01be6ed278762fd948b0e9bea7c85096c6ea/Images/WhatsApp%20Image%202025-09-02%20at%2010.35.25%20AM.jpeg)
 
 **Step-7: Case Closure**  
 - Close the case once the investigation is complete.  
