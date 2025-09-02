@@ -44,12 +44,12 @@ By analyzing headers, we can identify:
 
 **Step-3:** Use the **Mail Header Analyzer tool** for easy reading and analysis.  
 
-![(images/exp4-step3.png)]()
+![(images/exp4-step3.png)](https://github.com/Chandra013/DF-Lab-Record-/blob/b1a6d1a579cca7d57aec3cdfb00c4c5a4ccf2498/Images/WhatsApp%20Image%202025-09-02%20at%2010.34.34%20AM.jpeg)
 
 **Step-4:** Copy and paste the entire header text into the tool and click **Analyze Header**.  
 
 
-![(images/exp4-step4.png)]()
+![(images/exp4-step4.png)](https://github.com/Chandra013/DF-Lab-Record-/blob/b1a6d1a579cca7d57aec3cdfb00c4c5a4ccf2498/Images/WhatsApp%20Image%202025-09-02%20at%2010.34.37%20AM.jpeg)
 
 **Step-5:** Identify key header fields:  
 - From  
@@ -61,13 +61,13 @@ By analyzing headers, we can identify:
 - Message-ID  
 - SPF / DKIM / DMARC
   
-![(images/exp4-step5.png)]()
+![(images/exp4-step5.png)](https://github.com/Chandra013/DF-Lab-Record-/blob/b1a6d1a579cca7d57aec3cdfb00c4c5a4ccf2498/Images/WhatsApp%20Image%202025-09-02%20at%2010.34.41%20AM.jpeg)
 
 **Step-6:** Check for IP addresses and hostnames.  
 - Use tools like **WHOIS** or online IP lookup services to identify the geographical location and ownership of IP addresses found in the *Received* lines.  
 - Verify if any IPs are suspicious or if the hostname doesn’t match the expected sending server.
 
-![(images/exp4-step6.png)]()
+![(images/exp4-step6.png)](https://github.com/Chandra013/DF-Lab-Record-/blob/b1a6d1a579cca7d57aec3cdfb00c4c5a4ccf2498/Images/WhatsApp%20Image%202025-09-02%20at%2010.34.43%20AM.jpeg)
 
 **Step-7:** Examine the SPF, DKIM, and DMARC results:  
 - **SPF (Sender Policy Framework):** Checks if the sender’s server/IP is authorized for that domain.  
@@ -75,17 +75,17 @@ By analyzing headers, we can identify:
 - **DMARC (Domain-based Message Authentication, Reporting & Conformance):** Provides domain-level email authentication, policy, and reporting.
 
   
-![(images/exp4-step7.png)]()
+![(images/exp4-step7.png)](https://github.com/Chandra013/DF-Lab-Record-/blob/b1a6d1a579cca7d57aec3cdfb00c4c5a4ccf2498/Images/WhatsApp%20Image%202025-09-02%20at%2010.34.45%20AM.jpeg)
 
 
 - SPF Sender Policy Framework → Checks if the sender’s server/IP is allowed for that
 domain
 - DKIM DomainKeys Identified Mail → Ensures email content wasn’t changed.
 
-![(images/exp4-step7.png)]()
+![(images/exp4-step7.png)](https://github.com/Chandra013/DF-Lab-Record-/blob/b1a6d1a579cca7d57aec3cdfb00c4c5a4ccf2498/Images/WhatsApp%20Image%202025-09-02%20at%2010.34.47%20AM.jpeg)
 
 
-![(images/exp4-step7.png)]()
+![(images/exp4-step7.png)](https://github.com/Chandra013/DF-Lab-Record-/blob/b1a6d1a579cca7d57aec3cdfb00c4c5a4ccf2498/Images/WhatsApp%20Image%202025-09-02%20at%2010.34.54%20AM.jpeg)
 
 ---
 
