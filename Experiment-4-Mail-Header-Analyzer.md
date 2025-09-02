@@ -35,7 +35,7 @@ By analyzing headers, we can identify:
 **Step-1:** First, get the email header. In Gmail, select the mail, click the three dots, and choose **Show Original**.  
 
 
-![(images/exp4-step1.png)](https://github.com/Chandra013/DF-Lab-Record-/blob/ee60aa0a3e457af2c999b6e33b3d240e3170a182/Images/WhatsApp%20Image%202025-09-02%20at%2010.34.29%20AM.jpeg)
+![(images/exp4-step1.png)](https://github.com/Chandra013/DF-Lab-Record-/blob/9ab75d6e44ebdf59dcdee06545dfd4597630d4b5/Images/Screenshot%202025-09-02%20151233.png)
 
 
 **Step-2:** After clicking **Show Original**, you will see the raw message with sender and receiver details.  
